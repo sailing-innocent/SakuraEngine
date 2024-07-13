@@ -51,3 +51,6 @@ includes("modules/xmake.lua")
 includes("samples/xmake.lua")
 includes("editors/xmake.lua")
 includes("tests/xmake.lua")
+
+-- The SouthOfContinent game
+includes("SOCGame/main.lua")
