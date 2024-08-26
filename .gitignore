@@ -40,4 +40,5 @@ xmake.log
 
 project.lua
 
-games/** -/games/.gitkeep
+games/** 
+!games/.gitkeep
