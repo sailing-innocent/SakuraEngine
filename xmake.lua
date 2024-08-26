@@ -51,3 +51,8 @@ includes("modules/xmake.lua")
 includes("samples/xmake.lua")
 includes("editors/xmake.lua")
 includes("tests/xmake.lua")
+
+
+-- zzh-dev add content start
+includes("games/game.lua")
+-- zzh-dev add content end

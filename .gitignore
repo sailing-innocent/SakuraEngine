@@ -39,3 +39,5 @@ scenes
 xmake.log
 
 project.lua
+
+games/** -/games/.gitkeep
