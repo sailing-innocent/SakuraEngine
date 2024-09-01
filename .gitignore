@@ -42,3 +42,4 @@ project.lua
 
 games/** 
 !games/.gitkeep
+!games/game.lua
